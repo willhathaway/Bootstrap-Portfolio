@@ -77,8 +77,12 @@ h3 {
   background: #312f35;
 }
 
+
+
+/* 
 nav {
   float: right;
+  margin-right: 40px;
   margin-top: 25px;
 }
 
@@ -94,7 +98,7 @@ nav a {
 
 nav a:first-child {
   border-left: 0 none;
-}
+} */
 
 /* footer */
 
