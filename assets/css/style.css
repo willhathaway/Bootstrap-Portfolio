@@ -80,6 +80,9 @@ h3 {
 
 
 /* 
+
+removed to rely more on bootstrap than original CSS
+
 nav {
   float: right;
   margin-right: 40px;
